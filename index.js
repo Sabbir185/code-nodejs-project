@@ -15,16 +15,18 @@ app.config = {
 };
 
 
-// testing our file system
-// data.create('test', 'newFile', {name:'sabbir', dept:'cse'}, (err)=>{
-//     console.log(err)
-// });
-// data.read('test', 'newFile', (err, data)=>{
-//     console.log(err, data);
-// });
-// data.update('test', 'newFile', {name:'Nazib', dept:'cse'}, (err)=>{
-//     console.log(err)
-// });
+/*
+    // testing our file system
+    data.create('test', 'newFile', {name:'sabbir', dept:'cse'}, (err)=>{
+        console.log(err)
+    });
+    data.read('test', 'newFile', (err, data)=>{
+        console.log(err, data);
+    });
+    data.update('test', 'newFile', {name:'Nazib', dept:'cse'}, (err)=>{
+        console.log(err)
+    });
+*/
 
 
 // create server
